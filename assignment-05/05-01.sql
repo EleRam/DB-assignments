@@ -1,0 +1,2 @@
+SELECT Name FROM Doctors
+ORDER BY salary DESC
